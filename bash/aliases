@@ -1,0 +1,14 @@
+alias ls='ls -G'
+alias ll='ls -hl'
+alias l='ls -l'
+alias la='ls -la'
+
+alias vim='/Applications/MacVim.app/Contents/MacOS/Vim'
+alias vi='/Applications/MacVim.app/Contents/MacOS/Vim'
+alias edit='open -a TextWrangler'
+
+alias c='clear'
+alias reload='source ~/.bash_profile'
+alias colorslist="set | egrep 'COLOR_\w*'"
+
+alias gst='git status'

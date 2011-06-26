@@ -1,0 +1,20 @@
+export JETTY_HOME=$HOME/Programs/jetty-7.0.1
+export MAGICK_HOME=$HOME/Programs/ImageMagick-6.5.8
+export DYLD_LIBRARY_PATH=$MAGICK_HOME/lib
+export SCALA_HOME=/usr/local/share/scala
+export M2_HOME=/usr/share/maven
+export GRAILS_HOME=/Users/rodrigolazoti/Programs/grails-1.3.4
+export MONGO_HOME=/Users/rodrigolazoti/Programs/mongodb-1.6.3
+export GRADLE_HOME=/Users/rodrigolazoti/Programs/gradle-1.0-milestone-2
+
+#export PATH=/Library/PostgreSQL/8.4/bin:$PATH
+#export PATH=/usr/local/mysql/bin:$PATH
+
+export PATH=$HOME/.rvm/bin:$PATH
+export PATH=$SCALA_HOME/bin:$PATH
+export PATH=$MAGICK_HOME/bin:$PATH
+export PATH=$M2_HOME/bin:$PATH
+export PATH=$GRAILS_HOME/bin:$PATH
+export PATH=$MONGO_HOME/bin:$PATH
+export PATH=$GRADLE_HOME/bin:$PATH
+export PATH=$GAE_HOME/bin:$PATH
