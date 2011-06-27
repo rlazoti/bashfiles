@@ -1,3 +1,4 @@
+source ~/.git-completion.sh
 source ~/.bash/colors
 source ~/.bash/home
 source ~/.bash/paths

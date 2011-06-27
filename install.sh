@@ -3,7 +3,7 @@
 cp -f bash_profile ~/.bash_profile
 cp -f gitconfig ~/.gitconfig
 cp -f profile ~/.profile
-cp -f git_completion.sh ~/.git_completion.sh
+cp -f git-completion.sh ~/.git-completion.sh
 
 rm -rf ~/.bash
 mkdir ~/.bash
