@@ -4,7 +4,6 @@ cp -f bash_profile ~/.bash_profile
 cp -f gitconfig ~/.gitconfig
 cp -f profile ~/.profile
 cp -f git-completion.sh ~/.git-completion.sh
-cp -f vimrc ~/.vimrc
 
 rm -rf ~/.bash
 mkdir ~/.bash
